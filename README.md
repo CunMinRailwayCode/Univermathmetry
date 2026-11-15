@@ -19,7 +19,7 @@ In the Demo version:
 3. **Move the grey cursor.** Press `C + ←/→` to move the grey brush; press `C + S` to rotate the cursor; press `C + Q` to jump the cursor to a specified position.
 4. **Hide the grey cursor.** Hover your mouse over the grey cursor to hide it.
 
-> Warning! This early build lacks functions for selecting or deleting existing points and lines. It is more of a prototype toy for now. That is why this release is labelled “Demo”.
+> Warning! This early build lacks functions for deleting existing points and lines. It is more of a prototype toy for now. That is why this release is labelled “β”.
 
 -------------
 -------------
@@ -37,14 +37,14 @@ In the Demo version:
 
 ## 我如何使用它？
 
-在Demo版本中：
+在β1版本中：
 
 1. **绘制点的功能。** 按下 `P + 点的名称的字母` 创建一个点并标记名称。
 2. **绘制线的功能。** 按下 `L + ←/→` 从灰色画笔处向左/右创建一条线；按下 `L + u(up)/d(down)` 使光标前进/后退并作线。
 3. **移动灰色光标的功能** 按下 `C + ←/→` 移动灰色画笔；按下 `C + S` 旋转光标；按下 `C + Q` 使光标移动到指定位置。
 4. **隐藏灰色光标的功能** 将鼠标移动到灰色光标处使灰色光标隐藏。
 
-> 注意！该版本早期到没有删除点、线，选择点、线的功能，目前更像一个玩具。所以现在的release中的版本名称为“Demo”。
+> 注意！该版本早期到没有删除点、线的功能，目前更像一个玩具。所以现在的release中的版本名称为“β”。
 
 
 
